@@ -1,0 +1,14 @@
+total=654 with_logo=565 no_logo=89
+[50/565] ok=42 failed=8 invalid=0 big=0
+[100/565] ok=84 failed=16 invalid=0 big=0
+[150/565] ok=124 failed=26 invalid=0 big=0
+[200/565] ok=167 failed=33 invalid=0 big=0
+[250/565] ok=210 failed=40 invalid=0 big=0
+[300/565] ok=257 failed=43 invalid=0 big=0
+[350/565] ok=297 failed=53 invalid=0 big=0
+[400/565] ok=339 failed=61 invalid=0 big=0
+[450/565] ok=386 failed=63 invalid=1 big=0
+[500/565] ok=428 failed=71 invalid=1 big=0
+[550/565] ok=467 failed=82 invalid=1 big=0
+[565/565] ok=479 failed=85 invalid=1 big=0
+SUMMARY: {"downloaded_count": 479, "failed_count": 85, "invalid_count": 1, "skipped_too_big_count": 0, "no_logo_url": 89}

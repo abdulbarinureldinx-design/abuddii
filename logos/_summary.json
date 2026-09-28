@@ -1,0 +1,532 @@
+{
+  "total_agencies": 654,
+  "with_logo_url": 565,
+  "no_logo_url": 89,
+  "downloaded_count": 480,
+  "failed_count": 85,
+  "invalid_count": 0,
+  "skipped_too_big_count": 0,
+  "failed_entity_ids": [
+    "02f9938f-aa05-4bf7-b1be-f4568b591d76",
+    "03887fdd-c30e-4cb3-9c25-0f89b209a1eb",
+    "03a1ee2f-4d87-4ad8-a941-ddac9e53d74e",
+    "0b1aa8b8-ec31-4831-bc58-1e1abf103d14",
+    "0e585ba6-693b-4058-898e-e5e7adf4f8a6",
+    "0e74c106-1ac1-4d90-9572-a710cdaa44a3",
+    "1012b0f8-379d-4ed2-9030-f67c23559317",
+    "148c5166-5aaa-4c8b-a398-f782ce0bbd9b",
+    "16306784-3ab9-4ce5-8fc1-087107b4cdbf",
+    "1e7d44d1-fc6b-4c16-bc5b-362fd892a8e2",
+    "2811730a-f1b6-44da-a1c8-f93cb9eb522e",
+    "2a3851f7-bc91-4ee6-9ed1-87e3fe73266e",
+    "2e53f8cb-9d57-4711-b883-6f36f3783d38",
+    "2f25d05d-f302-477d-9328-a7406259565d",
+    "39bf43c5-6705-48c1-b141-35b09f7af8bf",
+    "3cd49b3f-2941-4e60-b0ca-9e6a173b2152",
+    "3f1c25ae-4bc0-45d7-b23f-966a6b9e7df3",
+    "3f4ba372-dd2e-48c4-9f41-fbd4d7f4fcc6",
+    "419880ad-38ba-4808-9f07-2f4c919822e9",
+    "435e2c5d-e4d6-47e9-9df7-40326a3de77f",
+    "44b24c44-3f13-4d0d-ac71-7fb79c9f5b85",
+    "461aa8ab-6f4e-40c7-8a2b-f5b755c0ac5f",
+    "48a48307-fc6e-41b6-bf0f-2aabbed83b91",
+    "4e256aca-1980-44e4-8589-e05d4dc92185",
+    "4fb1750f-d562-4028-8649-ac959fd3240a",
+    "5281d0d1-b824-4232-a198-68943173e490",
+    "52ad048e-a332-4abf-b3c8-96890c9e9706",
+    "58599133-c8e4-4e9b-89e6-1100db83c0fa",
+    "5b010ebe-8317-44e8-b525-15215830d28d",
+    "5f1e2019-a412-44b0-870e-6683ac2dbc57",
+    "5fd558f6-1c3b-4392-98ba-4508b6c7eff3",
+    "63603ad8-9ada-402e-b90c-53ed202c7499",
+    "6407962c-15fd-4e5d-9481-4b98716fb3b3",
+    "65c9c3c1-32d5-40de-8b9c-cec028773fa7",
+    "66fe07fa-8f10-4bf7-ad3b-cdab1d9cd1ea",
+    "69ddb08c-7293-43df-977d-e9405577d6ef",
+    "7116aac5-a5ce-4158-bef9-c1643e462712",
+    "71b718bc-55c3-4e8d-9247-87f3bfbea2ad",
+    "787b70dc-7273-45a9-8cf4-753f8b39cee2",
+    "78eb2efe-3f95-4425-b3e1-3d6c3e12b7f5",
+    "7af60680-b517-45f0-b664-81abb139aca9",
+    "7c66d074-ce4a-4a9b-8113-b5bb0399a3fe",
+    "80e11847-f62c-432a-bae4-f3801556ae1e",
+    "811b1ac6-8e31-41c4-bb8b-698f7058d6a3",
+    "82ba0b80-7d8d-42ad-9284-a89fce549e7c",
+    "8f593529-2709-4824-ae12-eef4ca8cc81e",
+    "932bda9e-6f5f-45ca-b909-4df50d39f0c5",
+    "933cd6b5-36c0-494c-95cb-471e7e6238f7",
+    "945ba66a-cbfa-48e1-b3be-9526605b4055",
+    "a4e0c918-3bdd-4eff-8ac2-639b82c67894",
+    "a9872727-a4c0-4a40-a49b-7d69da562c69",
+    "ac3db38c-1c85-4c39-87d4-08d926cd0a31",
+    "aca95a6f-9967-432d-a1da-4152b7ad4605",
+    "ad8daeac-0b2d-4030-8774-17b1f656cb3f",
+    "b1c148d2-508f-4916-ad03-7da31a93de27",
+    "b2880a3d-c5c4-4a0e-bf0c-e56dedbe2c13",
+    "b786d7bd-3d4e-49fe-a0d9-8fe8f65c743c",
+    "b7cd9dd1-540f-4d2e-9e72-e1358eb58526",
+    "b85aa557-24ed-4668-90f4-fa0ed27d3666",
+    "b8ce11f5-bd93-485d-b9af-8712bc41fb5b",
+    "b8e24e36-7a95-4d65-9cd5-f6dc96a5509a",
+    "bac04d6a-66ba-43d3-8c51-a00249b7633c",
+    "bf7bc980-f44f-4946-bb95-f6c85073eee2",
+    "c20dccb8-2071-4aed-b2e8-5a36ef12b44a",
+    "c33d8e67-7667-4b2d-b607-3d45d1db1ec5",
+    "c7f2a90d-e6e4-487c-890d-9febbc431a7f",
+    "d4f1cb5c-5030-4722-9535-53d09b8bdc31",
+    "d6c76ac0-d7b0-4048-939a-bb25177a89df",
+    "d71c52d7-1e07-4d94-a5d0-e62d0501a4d7",
+    "d7fa2838-9d02-40ae-82bd-d4d274718a29",
+    "dc455e3d-29f3-4c63-9007-9729ab1e4e0f",
+    "de6ae25d-6134-41e5-a1cd-c3923a6afd81",
+    "df2db73c-e0c2-42b3-9671-9634099a2673",
+    "e14d50d2-79b6-44b3-acd9-bb24946d2940",
+    "e28372ac-8897-48cc-8486-491546a6248d",
+    "e4e15d23-e672-429f-b50e-fd7b64ff8a82",
+    "e56c6518-dafa-4943-9160-5b98721ca65a",
+    "e8c3edbf-2819-44ab-ac34-aa48e7245ecd",
+    "eb170935-ef35-4608-98c4-d1af2a375f85",
+    "f12cf4ca-46cc-417e-ae1f-51f6082211a0",
+    "f2e42acb-715b-40d1-a713-1e15f77bbeef",
+    "f3cf9a7b-a7e8-43d2-99b7-d6151bd720f6",
+    "f53f84bc-40b5-41b6-954a-bc1cd8df9d07",
+    "fdebc038-57ef-4b58-9182-fe1524f0565f",
+    "fff92114-c75b-4120-88a6-001c9de424fc"
+  ],
+  "failed_details": {
+    "02f9938f-aa05-4bf7-b1be-f4568b591d76": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/knNXa1700572438.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/knNXa1700572438.jpeg"
+    },
+    "03887fdd-c30e-4cb3-9c25-0f89b209a1eb": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/YDjJW1700573900.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/YDjJW1700573900.jpeg"
+    },
+    "03a1ee2f-4d87-4ad8-a941-ddac9e53d74e": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/GRAvn1700718309.png",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/GRAvn1700718309.png"
+    },
+    "0b1aa8b8-ec31-4831-bc58-1e1abf103d14": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/OiIkB1700654240.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/OiIkB1700654240.jpeg"
+    },
+    "0e585ba6-693b-4058-898e-e5e7adf4f8a6": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/BHIJC1700645142.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/BHIJC1700645142.jpeg"
+    },
+    "0e74c106-1ac1-4d90-9572-a710cdaa44a3": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/wG0GD1700658651.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/wG0GD1700658651.jpeg"
+    },
+    "1012b0f8-379d-4ed2-9030-f67c23559317": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/P6Eph1700574799.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/P6Eph1700574799.jpeg"
+    },
+    "148c5166-5aaa-4c8b-a398-f782ce0bbd9b": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/rsq231700645809.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/rsq231700645809.jpeg"
+    },
+    "16306784-3ab9-4ce5-8fc1-087107b4cdbf": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/J8QjS1700654251.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/J8QjS1700654251.jpeg"
+    },
+    "1e7d44d1-fc6b-4c16-bc5b-362fd892a8e2": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/nLcrt1700656328.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/nLcrt1700656328.jpeg"
+    },
+    "2811730a-f1b6-44da-a1c8-f93cb9eb522e": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/6l0mX1700639889.png",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/6l0mX1700639889.png"
+    },
+    "2a3851f7-bc91-4ee6-9ed1-87e3fe73266e": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/4HseJ1700665933.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/4HseJ1700665933.jpeg"
+    },
+    "2e53f8cb-9d57-4711-b883-6f36f3783d38": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/6ZRTZ1700738619.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/6ZRTZ1700738619.jpeg"
+    },
+    "2f25d05d-f302-477d-9328-a7406259565d": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/AHQa81700734156.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/AHQa81700734156.jpeg"
+    },
+    "39bf43c5-6705-48c1-b141-35b09f7af8bf": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/jOjCG1700649424.pdf",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/jOjCG1700649424.pdf"
+    },
+    "3cd49b3f-2941-4e60-b0ca-9e6a173b2152": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/K0wES1700570066.png",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/K0wES1700570066.png"
+    },
+    "3f1c25ae-4bc0-45d7-b23f-966a6b9e7df3": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/dmq4q1700664061.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/dmq4q1700664061.jpeg"
+    },
+    "3f4ba372-dd2e-48c4-9f41-fbd4d7f4fcc6": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/EvyG21700663116.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/EvyG21700663116.jpeg"
+    },
+    "419880ad-38ba-4808-9f07-2f4c919822e9": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/Hx6Dw1700673559.png",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/Hx6Dw1700673559.png"
+    },
+    "435e2c5d-e4d6-47e9-9df7-40326a3de77f": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/UX6Tv1700673511.png",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/UX6Tv1700673511.png"
+    },
+    "44b24c44-3f13-4d0d-ac71-7fb79c9f5b85": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/qd4Sw1700737341.png",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/qd4Sw1700737341.png"
+    },
+    "461aa8ab-6f4e-40c7-8a2b-f5b755c0ac5f": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/uZ61D1700670620.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/uZ61D1700670620.jpeg"
+    },
+    "48a48307-fc6e-41b6-bf0f-2aabbed83b91": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/rMybP1700670920.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/rMybP1700670920.jpeg"
+    },
+    "4e256aca-1980-44e4-8589-e05d4dc92185": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/CxS7S1700578430.png",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/CxS7S1700578430.png"
+    },
+    "4fb1750f-d562-4028-8649-ac959fd3240a": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/LBQON1700576166.png",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/LBQON1700576166.png"
+    },
+    "5281d0d1-b824-4232-a198-68943173e490": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/Jmt4i1700655109.png",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/Jmt4i1700655109.png"
+    },
+    "52ad048e-a332-4abf-b3c8-96890c9e9706": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/ZMG6d1700579880.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/ZMG6d1700579880.jpeg"
+    },
+    "58599133-c8e4-4e9b-89e6-1100db83c0fa": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/VGqJW1700646342.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/VGqJW1700646342.jpeg"
+    },
+    "5b010ebe-8317-44e8-b525-15215830d28d": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/zTVBz1700644613.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/zTVBz1700644613.jpeg"
+    },
+    "5f1e2019-a412-44b0-870e-6683ac2dbc57": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/HaEr91700752883.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/HaEr91700752883.jpeg"
+    },
+    "5fd558f6-1c3b-4392-98ba-4508b6c7eff3": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/s1sC81700573713.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/s1sC81700573713.jpeg"
+    },
+    "63603ad8-9ada-402e-b90c-53ed202c7499": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/mAuxp1700643948.png",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/mAuxp1700643948.png"
+    },
+    "6407962c-15fd-4e5d-9481-4b98716fb3b3": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/xFeHr1700748031.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/xFeHr1700748031.jpeg"
+    },
+    "65c9c3c1-32d5-40de-8b9c-cec028773fa7": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/eNh681700696867.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/eNh681700696867.jpeg"
+    },
+    "66fe07fa-8f10-4bf7-ad3b-cdab1d9cd1ea": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/XzOC11700671646.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/XzOC11700671646.jpeg"
+    },
+    "69ddb08c-7293-43df-977d-e9405577d6ef": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/elrtx1700759920.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/elrtx1700759920.jpeg"
+    },
+    "7116aac5-a5ce-4158-bef9-c1643e462712": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/UvUbH1700590240.png",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/UvUbH1700590240.png"
+    },
+    "71b718bc-55c3-4e8d-9247-87f3bfbea2ad": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/0BvFx1700676444.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/0BvFx1700676444.jpeg"
+    },
+    "787b70dc-7273-45a9-8cf4-753f8b39cee2": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/qgZJr1700649748.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/qgZJr1700649748.jpeg"
+    },
+    "78eb2efe-3f95-4425-b3e1-3d6c3e12b7f5": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/aY5E71700576434.png",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/aY5E71700576434.png"
+    },
+    "7af60680-b517-45f0-b664-81abb139aca9": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/yHNl21700640527.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/yHNl21700640527.jpeg"
+    },
+    "7c66d074-ce4a-4a9b-8113-b5bb0399a3fe": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/ivSFt1700566897.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/ivSFt1700566897.jpeg"
+    },
+    "80e11847-f62c-432a-bae4-f3801556ae1e": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/owj4W1700742631.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/owj4W1700742631.jpeg"
+    },
+    "811b1ac6-8e31-41c4-bb8b-698f7058d6a3": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/rbtzp1700657856.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/rbtzp1700657856.jpeg"
+    },
+    "82ba0b80-7d8d-42ad-9284-a89fce549e7c": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/J9vfy1700638602.png",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/J9vfy1700638602.png"
+    },
+    "8f593529-2709-4824-ae12-eef4ca8cc81e": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/7PzwS1700581745.png",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/7PzwS1700581745.png"
+    },
+    "932bda9e-6f5f-45ca-b909-4df50d39f0c5": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/wG9ID1700824876.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/wG9ID1700824876.jpeg"
+    },
+    "933cd6b5-36c0-494c-95cb-471e7e6238f7": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/481A41700680167.png",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/481A41700680167.png"
+    },
+    "945ba66a-cbfa-48e1-b3be-9526605b4055": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/5R6Yv1700581707.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/5R6Yv1700581707.jpeg"
+    },
+    "a4e0c918-3bdd-4eff-8ac2-639b82c67894": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/xwacO1700743138.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/xwacO1700743138.jpeg"
+    },
+    "a9872727-a4c0-4a40-a49b-7d69da562c69": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/LgksJ1700572822.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/LgksJ1700572822.jpeg"
+    },
+    "ac3db38c-1c85-4c39-87d4-08d926cd0a31": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/6l71p1700731791.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/6l71p1700731791.jpeg"
+    },
+    "aca95a6f-9967-432d-a1da-4152b7ad4605": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/CmdI11700571153.png",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/CmdI11700571153.png"
+    },
+    "ad8daeac-0b2d-4030-8774-17b1f656cb3f": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/o568e1700631526.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/o568e1700631526.jpeg"
+    },
+    "b1c148d2-508f-4916-ad03-7da31a93de27": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/g6naM1700997143.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/g6naM1700997143.jpeg"
+    },
+    "b2880a3d-c5c4-4a0e-bf0c-e56dedbe2c13": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/NJtms1700665068.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/NJtms1700665068.jpeg"
+    },
+    "b786d7bd-3d4e-49fe-a0d9-8fe8f65c743c": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/V3YBC1700823006.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/V3YBC1700823006.jpeg"
+    },
+    "b7cd9dd1-540f-4d2e-9e72-e1358eb58526": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/vwWZu1700644917.png",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/vwWZu1700644917.png"
+    },
+    "b85aa557-24ed-4668-90f4-fa0ed27d3666": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/GZk4F1700667699.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/GZk4F1700667699.jpeg"
+    },
+    "b8ce11f5-bd93-485d-b9af-8712bc41fb5b": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/s368i1700739683.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/s368i1700739683.jpeg"
+    },
+    "b8e24e36-7a95-4d65-9cd5-f6dc96a5509a": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/ePiKv1700573048.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/ePiKv1700573048.jpeg"
+    },
+    "bac04d6a-66ba-43d3-8c51-a00249b7633c": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/HJMar1700740617.pdf",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/HJMar1700740617.pdf"
+    },
+    "bf7bc980-f44f-4946-bb95-f6c85073eee2": {
+      "url": "https://storage-api.etc.lmis.gov.et/emdmsv2/foreign_entity/2313fd27-ce00-470b-8046-02bf311324531747927830.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/emdmsv2/foreign_entity/2313fd27-ce00-470b-8046-02bf311324531747927830.jpeg"
+    },
+    "c20dccb8-2071-4aed-b2e8-5a36ef12b44a": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/DrObP1700573297.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/DrObP1700573297.jpeg"
+    },
+    "c33d8e67-7667-4b2d-b607-3d45d1db1ec5": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/bTI7l1700589488.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/bTI7l1700589488.jpeg"
+    },
+    "c7f2a90d-e6e4-487c-890d-9febbc431a7f": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/1dvGq1700581281.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/1dvGq1700581281.jpeg"
+    },
+    "d4f1cb5c-5030-4722-9535-53d09b8bdc31": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/HgNwt1700746206.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/HgNwt1700746206.jpeg"
+    },
+    "d6c76ac0-d7b0-4048-939a-bb25177a89df": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/6b79e1700666361.png",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/6b79e1700666361.png"
+    },
+    "d71c52d7-1e07-4d94-a5d0-e62d0501a4d7": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/3gEZV1700767310.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/3gEZV1700767310.jpeg"
+    },
+    "d7fa2838-9d02-40ae-82bd-d4d274718a29": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/5Ry3B1700770809.png",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/5Ry3B1700770809.png"
+    },
+    "dc455e3d-29f3-4c63-9007-9729ab1e4e0f": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/ArELd1700576071.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/ArELd1700576071.jpeg"
+    },
+    "de6ae25d-6134-41e5-a1cd-c3923a6afd81": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/6kO2h1700640600.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/6kO2h1700640600.jpeg"
+    },
+    "df2db73c-e0c2-42b3-9671-9634099a2673": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/FR3wd1700644989.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/FR3wd1700644989.jpeg"
+    },
+    "e14d50d2-79b6-44b3-acd9-bb24946d2940": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/39wJT1700742593.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/39wJT1700742593.jpeg"
+    },
+    "e28372ac-8897-48cc-8486-491546a6248d": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/vzWFg1700733013.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/vzWFg1700733013.jpeg"
+    },
+    "e4e15d23-e672-429f-b50e-fd7b64ff8a82": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/BHav11700818525.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/BHav11700818525.jpeg"
+    },
+    "e56c6518-dafa-4943-9160-5b98721ca65a": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/GDqBt1700579485.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/GDqBt1700579485.jpeg"
+    },
+    "e8c3edbf-2819-44ab-ac34-aa48e7245ecd": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/cYlbM1700667267.png",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/cYlbM1700667267.png"
+    },
+    "eb170935-ef35-4608-98c4-d1af2a375f85": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/AptmO1700674609.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/AptmO1700674609.jpeg"
+    },
+    "f12cf4ca-46cc-417e-ae1f-51f6082211a0": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/yMefR1700664659.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/yMefR1700664659.jpeg"
+    },
+    "f2e42acb-715b-40d1-a713-1e15f77bbeef": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/NVQpj1700671665.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/NVQpj1700671665.jpeg"
+    },
+    "f3cf9a7b-a7e8-43d2-99b7-d6151bd720f6": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/2ImOU1700690452.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/2ImOU1700690452.jpeg"
+    },
+    "f53f84bc-40b5-41b6-954a-bc1cd8df9d07": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/AWekP1700671177.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/AWekP1700671177.jpeg"
+    },
+    "fdebc038-57ef-4b58-9182-fe1524f0565f": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/izD2W1700666783.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/izD2W1700666783.jpeg"
+    },
+    "fff92114-c75b-4120-88a6-001c9de424fc": {
+      "url": "https://storage-api.etc.lmis.gov.et/default/labors/photos/DsvSR1700649810.jpeg",
+      "detail": "HTTPError: 404 Client Error: Not Found for url: https://storage-api.etc.lmis.gov.et/default/labors/photos/DsvSR1700649810.jpeg"
+    }
+  },
+  "invalid_details": [],
+  "skipped_too_big": [],
+  "no_logo_entity_ids": [
+    "00b84a7e-4b00-4064-a855-33a1e984c362",
+    "01bc49af-868f-4c76-96ee-39389e0d6b33",
+    "044a558c-d98b-4cda-b530-10ce9c60fb42",
+    "05f6af06-d9f9-426b-9ab6-72c24729b1bc",
+    "08a7cb31-12b6-4d54-9b72-97a18a5e3d2d",
+    "09f9e445-40ec-48df-be25-d8531fef2456",
+    "0b814474-fb83-44bb-9b00-d33c044859f5",
+    "0ce14f67-580f-4a9a-8cd9-3b2a5b0613df",
+    "14cc0867-b07d-4108-80e2-592245692bd5",
+    "16bf13fd-b3b1-4ca5-8716-d39bbe8d9934",
+    "1945499b-94b7-42b0-8567-5cdab8e5c0a5",
+    "1dd59a00-72e4-4fd9-b3b1-dc52a99a8cdd",
+    "1f16d930-dd66-4e0e-b60e-b3d31ee8d298",
+    "1f7f2bec-1fab-44bf-807d-18d595dc7b0a",
+    "2051453a-d4c4-422e-8ab0-792297d8dc01",
+    "212c46fd-7a84-41cf-a474-24224baf8d10",
+    "26f4991a-175a-4484-b086-347fb6bf26e5",
+    "2ce2324f-b9f5-4baa-bd61-9d35efebec62",
+    "2d794179-413a-4222-9fef-bae08e862236",
+    "2ee9d738-a179-4ded-bb47-952d8c72d6d5",
+    "304e08b6-f2a3-4cb1-b9ac-f5e0464200a8",
+    "30d958a2-17b0-43a4-8bf5-e59f008d1894",
+    "333f1071-d6a0-41ed-90cf-8f71120cbcd8",
+    "349a4538-3581-4e97-aff2-f02b3775833b",
+    "3f40b80f-db93-4c33-af62-7c87a1642752",
+    "40bb2872-718f-4b94-9ce0-6aec6d706d66",
+    "44fb29cd-c97d-414a-9a67-dffabe914912",
+    "478d8533-b35d-4676-b6c3-4f8f54c15c93",
+    "48f4880e-d815-42d7-8d10-67e02fdeefdb",
+    "4b156352-4336-4a74-86e9-9d5213c83d41",
+    "4c73aa47-bd81-4c57-96c9-74cee2a8e67b",
+    "4c8e865f-1cd4-451b-88ae-c3039e621ee4",
+    "4eb59aa6-9240-43c2-b5a3-ca6022f22d36",
+    "51663cd6-6534-465d-8977-6bbff3b2652c",
+    "522a8b67-f948-441c-8295-446326b55d48",
+    "5374f4b1-468a-4bd4-b4e3-f9fa8c22476c",
+    "6473a27c-1a5f-4e20-9876-e83cca198b44",
+    "67a1f369-4594-4a63-87e2-dd46a100c5ae",
+    "68182f32-b395-4df5-b5fb-e57680b1395a",
+    "6a3d4d77-e1ce-4b73-bfeb-61fc95c80d85",
+    "75a34828-a2bb-4b8b-9064-eee317e7849a",
+    "76ac5a03-ddc9-4adc-838c-fefd8234d0be",
+    "7c6abf7c-383f-4327-a481-d7d1951d85f7",
+    "7fe3756f-60b9-4efc-ad6c-cd8d2e404882",
+    "80d89488-bcbe-4fe6-9841-070b0ecfb102",
+    "817e3d36-4929-4d9e-b172-c4c17ef2a14a",
+    "818606fa-b7bd-40cc-abe2-3e39b2663895",
+    "89ab8b23-b2c9-4386-9bc9-0ac4f7421e7a",
+    "8a0dde3c-9a6b-4a10-99e0-e9c177930596",
+    "8d8ac3ca-25cb-4fb0-b907-7a2a6660010b",
+    "8dc9d7fb-3a31-498d-9531-8c1b343fe804",
+    "8ea27dbc-45a7-4394-95a4-a565d7bdf4d8",
+    "8f358bbc-47dd-4957-af3a-3250457564fd",
+    "921bfa25-3ba3-47ec-8b95-3f3053b6d472",
+    "962dc1b1-8da5-40a8-b1a2-729676140a7f",
+    "98a62d06-a692-4c52-a13f-7af6f6efb9f0",
+    "99fb68d1-c46a-4557-8f07-5bd927f7a262",
+    "9b659ec6-d111-4ca6-a27b-4b9ff1ac2279",
+    "9f747ef4-6b93-4372-a1e7-9410f23e5fec",
+    "a6db865b-74be-4ff1-b0e3-0199a8c0b6c7",
+    "aafda5f5-c738-436f-b80c-300a66c15848",
+    "b2053479-0807-4052-8b21-23bc3afed793",
+    "b5b646ca-a3a5-4229-b9ce-2d2b0708e2c8",
+    "b78ddf4a-803c-47e5-9506-9b039fd8686b",
+    "c0743dda-f218-49a5-a441-15100e7bfc0d",
+    "c18ef4ca-61e5-4283-abd6-df89ddc03db7",
+    "c2b58993-2404-4a41-936c-2d9451833bf3",
+    "c3ae6532-1a1f-416c-9881-ea8306f995a5",
+    "ce5719bf-5c15-451a-835a-62a0d74147ab",
+    "d0a58e34-0a14-4e1c-bc76-cb729bbe3049",
+    "d439720a-d5b5-4e11-8f92-9d86e863c049",
+    "d7181748-4c4b-470d-b51b-ba03ac69a806",
+    "d736d368-695a-4003-b7f2-9ab6eb28b122",
+    "d9948247-80d1-4805-8452-3df762068fcc",
+    "da7222b4-077d-4a17-acf5-d7d3c0648b00",
+    "db20c914-bce4-498c-aef4-298b5926b417",
+    "dd2488ee-cd73-4e10-a62e-3349601b46ed",
+    "e019829d-dd2b-47e6-ad43-9893539e5b9a",
+    "e3643c03-d87f-4642-931a-3a2aa9700b2f",
+    "e45c56e6-c480-4225-84bc-a33bd17ca9de",
+    "e45f037a-d3e3-4f90-aeda-e9ac57ef6bd5",
+    "e99233ec-8ab3-45c7-af21-6a69dcd79da3",
+    "efdc1a53-2bc2-452b-b0ac-0796d5322989",
+    "f1c1b4e4-2777-48f3-91a2-9dc3b410c352",
+    "f5b19e06-0b81-476d-b536-bb1f790b81d4",
+    "f84f370d-25dc-4032-af03-8aa466017cec",
+    "fbdcee1b-f380-491e-9adc-efaf02fada52",
+    "fe6d1a59-17b9-45f4-a375-4cc48b43654f",
+    "fecead9b-91d4-4b3c-a306-b135664e2a18"
+  ],
+  "notes": "db4e2011-53e1-4e2b-93e8-91b05f4ecb00: URL ends .png but content is a valid ICO (magic 00000100); saved as .ico and counted as downloaded. 84 of 85 failed URLs are storage-api.etc.lmis.gov.et/default/labors/photos/* (labor photos, not entity logos) returning hard 404 - resource deleted server-side, retry pointless. 1 failure is an emdmsv2/foreign_entity URL also 404."
+}
